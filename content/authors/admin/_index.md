@@ -1,17 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Israel R. Pacheco S. 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Israel Ranjit 
+last_name: Pacheco Singh
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +17,7 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Technological University of Panama
     url: https://openai.com/
 
 # Social network links
